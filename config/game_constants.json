@@ -1,0 +1,13 @@
+{
+    "scan_refresh_threshold": 3,
+    "host_name" : "server.bootcamp.tk.sg",
+    "port" : 9002,
+    "restart_at_begining" : false, 
+    "show_gui" : false,
+    "store_updates" : true,
+    "updates_output_file" : "updatelist.txt",
+    "seconds_to_run_for" : 1000,
+    "mobility_reduction_factor" : 10,
+    "scan_bots_fraction" : 3,
+    "max_move_dist": 5
+}

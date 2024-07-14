@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+51ec4f22badf320f963ed20a5481ded9 _deps/curl-build/CMakeFiles/curl_uninstall
+0242da3ec73a0a91fa023d797beb353a _deps/zstd-build/CMakeFiles/clean-all
+61b9cd880019fca33262afddd05673b5 _deps/zstd-build/lib/CMakeFiles/uninstall

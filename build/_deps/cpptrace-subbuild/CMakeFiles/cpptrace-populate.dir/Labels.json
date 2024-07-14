@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/ahilkhanjnv/TinkerTanker/team1-jun24/build/_deps/cpptrace-subbuild/CMakeFiles/cpptrace-populate"
+		},
+		{
+			"file" : "/home/ahilkhanjnv/TinkerTanker/team1-jun24/build/_deps/cpptrace-subbuild/CMakeFiles/cpptrace-populate.rule"
+		},
+		{
+			"file" : "/home/ahilkhanjnv/TinkerTanker/team1-jun24/build/_deps/cpptrace-subbuild/CMakeFiles/cpptrace-populate-complete.rule"
+		},
+		{
+			"file" : "/home/ahilkhanjnv/TinkerTanker/team1-jun24/build/_deps/cpptrace-subbuild/cpptrace-populate-prefix/src/cpptrace-populate-stamp/cpptrace-populate-build.rule"
+		},
+		{
+			"file" : "/home/ahilkhanjnv/TinkerTanker/team1-jun24/build/_deps/cpptrace-subbuild/cpptrace-populate-prefix/src/cpptrace-populate-stamp/cpptrace-populate-configure.rule"
+		},
+		{
+			"file" : "/home/ahilkhanjnv/TinkerTanker/team1-jun24/build/_deps/cpptrace-subbuild/cpptrace-populate-prefix/src/cpptrace-populate-stamp/cpptrace-populate-download.rule"
+		},
+		{
+			"file" : "/home/ahilkhanjnv/TinkerTanker/team1-jun24/build/_deps/cpptrace-subbuild/cpptrace-populate-prefix/src/cpptrace-populate-stamp/cpptrace-populate-install.rule"
+		},
+		{
+			"file" : "/home/ahilkhanjnv/TinkerTanker/team1-jun24/build/_deps/cpptrace-subbuild/cpptrace-populate-prefix/src/cpptrace-populate-stamp/cpptrace-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/ahilkhanjnv/TinkerTanker/team1-jun24/build/_deps/cpptrace-subbuild/cpptrace-populate-prefix/src/cpptrace-populate-stamp/cpptrace-populate-patch.rule"
+		},
+		{
+			"file" : "/home/ahilkhanjnv/TinkerTanker/team1-jun24/build/_deps/cpptrace-subbuild/cpptrace-populate-prefix/src/cpptrace-populate-stamp/cpptrace-populate-test.rule"
+		},
+		{
+			"file" : "/home/ahilkhanjnv/TinkerTanker/team1-jun24/build/_deps/cpptrace-subbuild/cpptrace-populate-prefix/src/cpptrace-populate-stamp/cpptrace-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cpptrace-populate"
+		],
+		"name" : "cpptrace-populate"
+	}
+}
